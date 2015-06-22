@@ -29,7 +29,7 @@ public class Main extends Application{
 		loadPlugins(tabs);
 			
 		Scene scene = new Scene(root , 800 , 450);
-		primaryStage.setTitle("TabPane Test");
+		primaryStage.setTitle("備品管理システム");
 		primaryStage.setScene(scene);
 		primaryStage.show();
 	}
