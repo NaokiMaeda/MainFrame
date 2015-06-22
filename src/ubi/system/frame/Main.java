@@ -29,7 +29,7 @@ public class Main extends Application{
 		loadPlugins(tabs);
 			
 		Scene scene = new Scene(root , 800 , 450);
-		primaryStage.setTitle("備品管理システム");
+		primaryStage.setTitle("蛯吝刀邂｡逅�繧ｷ繧ｹ繝�繝");
 		primaryStage.setScene(scene);
 		primaryStage.show();
 	}
