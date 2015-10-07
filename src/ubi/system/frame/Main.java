@@ -4,13 +4,13 @@ import java.util.ServiceLoader;
 
 import org.opencv.core.Core;
 
-import ubi.system.plugin.PluginFactory;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Tab;
 import javafx.scene.control.TabPane;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
+import ubi.system.plugin.PluginFactory;
 
 public class Main extends Application{
 	
